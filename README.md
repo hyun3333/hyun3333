@@ -1,5 +1,15 @@
 ### Hi there 👋👋👋👋👋👋
 
+---
+
+학원에서 IT공부중...
+
+---
+
+팀과제 정말 힘들다...
+
+---
+
 <!--
 **hyun3333/hyun3333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
